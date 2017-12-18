@@ -1,0 +1,12 @@
+.box{
+
+    margin-left:auto;
+    margin-right:auto;
+    -webkit-filter: grayscale(98%);
+    -webkit-transition: .6s ease-in-out;
+
+}
+.box:hover{
+    -webkit-filter: grayscale(0%);
+    -webkit-transition: .6s ease-in-out;
+}
