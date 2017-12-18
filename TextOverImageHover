@@ -1,10 +1,10 @@
 <!--HTML EXAMPLE -->
 
  <div class="col-sm-4 box hvrbox">
-   <a href="http://mmp.bmcc.cuny.edu/sanghwa.je/csc/"><img class="hvrbox-layer_bottom" src="http://mmp.bmcc.cuny.edu/sanghwa.je/460/images/6.jpg"></a>
+   <a href="http://mmp.bmcc.cuny.edu/sanghwa.je/csc/"><img class="hvrbox-layer_bottom" src="http://mmp.bmcc.cuny.edu/sanghwa.je/460/images/6.jpg">
     <div class="hvrbox-layer_top">
 	   <div class="hvrbox-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porttitor ligula porttitor, lacinia sapien non.</div>
-	  </div>
+	  </div></a>
   </div>
   
 <!--CSS EXAMPLE --------------------------->
